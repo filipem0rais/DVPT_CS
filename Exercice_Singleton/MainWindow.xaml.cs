@@ -27,12 +27,12 @@ namespace Exercice_Singleton
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MaClasse.Instance = MaClasse.CreateInstance();
+            Singleton.Instance = Singleton.CreateInstance();
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            MaClasse.Instance = MaClasse.CreateInstance();
+            Singleton.Instance = Singleton.CreateInstance();
         }
     }
 }

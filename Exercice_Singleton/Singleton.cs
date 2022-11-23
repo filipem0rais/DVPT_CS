@@ -6,20 +6,25 @@ using System.Threading.Tasks;
 
 namespace Exercice_Singleton
 {
-    class MaClasse
+    class Singleton
     {
-        public static MaClasse Instance;
+        public static Singleton Instance;
 
-        public static MaClasse CreateInstance()
+        public static Singleton CreateInstance()
         {
             if (Instance == null)
             {
-                Instance = new MaClasse();
+                Instance = new Singleton();
             }
             return Instance;
         }
 
-        
+        public Singleton()
+        {
+            CreateInstance();
+        }
+
+
 
 
 
