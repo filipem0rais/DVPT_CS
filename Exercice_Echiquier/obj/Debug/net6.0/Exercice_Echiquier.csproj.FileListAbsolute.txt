@@ -1,0 +1,15 @@
+C:\DATA\CS\Exercice_Echiquier\bin\Debug\net6.0\Exercice_Echiquier.exe
+C:\DATA\CS\Exercice_Echiquier\bin\Debug\net6.0\Exercice_Echiquier.deps.json
+C:\DATA\CS\Exercice_Echiquier\bin\Debug\net6.0\Exercice_Echiquier.runtimeconfig.json
+C:\DATA\CS\Exercice_Echiquier\bin\Debug\net6.0\Exercice_Echiquier.dll
+C:\DATA\CS\Exercice_Echiquier\bin\Debug\net6.0\Exercice_Echiquier.pdb
+C:\DATA\CS\Exercice_Echiquier\obj\Debug\net6.0\Exercice_Echiquier.csproj.AssemblyReference.cache
+C:\DATA\CS\Exercice_Echiquier\obj\Debug\net6.0\Exercice_Echiquier.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\CS\Exercice_Echiquier\obj\Debug\net6.0\Exercice_Echiquier.AssemblyInfoInputs.cache
+C:\DATA\CS\Exercice_Echiquier\obj\Debug\net6.0\Exercice_Echiquier.AssemblyInfo.cs
+C:\DATA\CS\Exercice_Echiquier\obj\Debug\net6.0\Exercice_Echiquier.csproj.CoreCompileInputs.cache
+C:\DATA\CS\Exercice_Echiquier\obj\Debug\net6.0\Exercice_Echiquier.dll
+C:\DATA\CS\Exercice_Echiquier\obj\Debug\net6.0\refint\Exercice_Echiquier.dll
+C:\DATA\CS\Exercice_Echiquier\obj\Debug\net6.0\Exercice_Echiquier.pdb
+C:\DATA\CS\Exercice_Echiquier\obj\Debug\net6.0\Exercice_Echiquier.genruntimeconfig.cache
+C:\DATA\CS\Exercice_Echiquier\obj\Debug\net6.0\ref\Exercice_Echiquier.dll
