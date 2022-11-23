@@ -7,12 +7,18 @@
         public enum ChessPiece
         {
             vide,
-            Dame,
-            Fou,
-            Cavalier,
-            Tour,
-            Pion,
-            Roi
+            BDame,
+            BFou,
+            BCavalier,
+            BTour,
+            BPion,
+            BRoi,
+            NDame,
+            NFou,
+            NCavalier,
+            NTour,
+            NPion,
+            NRoi
         }
 
         static void Main(string[] args)
@@ -36,9 +42,9 @@
             {
                 for (int j = 0; j < chessBoard.GetLength(1); j++)
                 {
-                    Console.Write(chessBoard.GetValue(i, j).ToString().Substring(0, 1) + "   |   ");
+                    Console.Write(chessBoard.GetValue(i, j).ToString().Substring(0, 2) + "   |   ");
                 }
-                Console.WriteLine("\n-----------------------------------------------------------------\n");
+                Console.WriteLine("\n-------------------------------------------------------------------------\n");
                 if (i < chessBoard.GetLength(0) - 1)
                 {
 
@@ -51,28 +57,28 @@
         static public void fillChessboard(Array chessBoard)
         {
             // fill the chessboard with pieces
-            chessBoard.SetValue(ChessPiece.Roi, 0, 4);  // black king
-            chessBoard.SetValue(ChessPiece.Roi, 7, 4);  // white king
-            chessBoard.SetValue(ChessPiece.Dame, 0, 3); // black queen
-            chessBoard.SetValue(ChessPiece.Dame, 7, 3); // white queen
-            chessBoard.SetValue(ChessPiece.Fou, 0, 2);  // black bishop
-            chessBoard.SetValue(ChessPiece.Fou, 0, 5);  // black bishop
-            chessBoard.SetValue(ChessPiece.Fou, 7, 2);  // white bishop
-            chessBoard.SetValue(ChessPiece.Fou, 7, 5);  // white bishop
-            chessBoard.SetValue(ChessPiece.Cavalier, 0, 1); // black knight
-            chessBoard.SetValue(ChessPiece.Cavalier, 0, 6); // black knight
-            chessBoard.SetValue(ChessPiece.Cavalier, 7, 1); // white knight
-            chessBoard.SetValue(ChessPiece.Cavalier, 7, 6); // white knight
-            chessBoard.SetValue(ChessPiece.Tour, 0, 0); // black rook
-            chessBoard.SetValue(ChessPiece.Tour, 0, 7); // black rook
-            chessBoard.SetValue(ChessPiece.Tour, 7, 0); // white rook
-            chessBoard.SetValue(ChessPiece.Tour, 7, 7); // white rook
-
+            chessBoard.SetValue(ChessPiece.BRoi, 0, 4);  // black king
+            chessBoard.SetValue(ChessPiece.NRoi, 7, 4);  // white king
+            chessBoard.SetValue(ChessPiece.BDame, 0, 3); // black queen
+            chessBoard.SetValue(ChessPiece.NDame, 7, 3); // white queen
+            chessBoard.SetValue(ChessPiece.BFou, 0, 2);  // black bishop
+            chessBoard.SetValue(ChessPiece.BFou, 0, 5);  // black bishop
+            chessBoard.SetValue(ChessPiece.NFou, 7, 2);  // white bishop
+            chessBoard.SetValue(ChessPiece.NFou, 7, 5);  // white bishop
+            chessBoard.SetValue(ChessPiece.BCavalier, 0, 1); // black knight
+            chessBoard.SetValue(ChessPiece.BCavalier, 0, 6); // black knight
+            chessBoard.SetValue(ChessPiece.NCavalier, 7, 1); // white knight
+            chessBoard.SetValue(ChessPiece.NCavalier, 7, 6); // white knight
+            chessBoard.SetValue(ChessPiece.BTour, 0, 0); // black rook
+            chessBoard.SetValue(ChessPiece.BTour, 0, 7); // black rook
+            chessBoard.SetValue(ChessPiece.NTour, 7, 0); // white rook
+            chessBoard.SetValue(ChessPiece.NTour, 7, 7); // white rook
+            
             // fill the chessboard with pawns
             for (int i = 0; i < 8; i++)
             {
-                chessBoard.SetValue(ChessPiece.Pion, 1, i); // black pawn
-                chessBoard.SetValue(ChessPiece.Pion, 6, i); // white pawn
+                chessBoard.SetValue(ChessPiece.BPion, 1, i); // black pawn
+                chessBoard.SetValue(ChessPiece.NPion, 6, i); // white pawn
             }
 
             // fill the chessboard with empty squares
