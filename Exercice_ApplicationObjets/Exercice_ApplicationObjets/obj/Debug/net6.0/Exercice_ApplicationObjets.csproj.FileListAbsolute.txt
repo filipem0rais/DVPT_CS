@@ -1,0 +1,15 @@
+C:\DATA\CS\Exercice_ApplicationObjets\Exercice_ApplicationObjets\bin\Debug\net6.0\Exercice_ApplicationObjets.exe
+C:\DATA\CS\Exercice_ApplicationObjets\Exercice_ApplicationObjets\bin\Debug\net6.0\Exercice_ApplicationObjets.deps.json
+C:\DATA\CS\Exercice_ApplicationObjets\Exercice_ApplicationObjets\bin\Debug\net6.0\Exercice_ApplicationObjets.runtimeconfig.json
+C:\DATA\CS\Exercice_ApplicationObjets\Exercice_ApplicationObjets\bin\Debug\net6.0\Exercice_ApplicationObjets.dll
+C:\DATA\CS\Exercice_ApplicationObjets\Exercice_ApplicationObjets\bin\Debug\net6.0\Exercice_ApplicationObjets.pdb
+C:\DATA\CS\Exercice_ApplicationObjets\Exercice_ApplicationObjets\obj\Debug\net6.0\Exercice_ApplicationObjets.csproj.AssemblyReference.cache
+C:\DATA\CS\Exercice_ApplicationObjets\Exercice_ApplicationObjets\obj\Debug\net6.0\Exercice_ApplicationObjets.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\CS\Exercice_ApplicationObjets\Exercice_ApplicationObjets\obj\Debug\net6.0\Exercice_ApplicationObjets.AssemblyInfoInputs.cache
+C:\DATA\CS\Exercice_ApplicationObjets\Exercice_ApplicationObjets\obj\Debug\net6.0\Exercice_ApplicationObjets.AssemblyInfo.cs
+C:\DATA\CS\Exercice_ApplicationObjets\Exercice_ApplicationObjets\obj\Debug\net6.0\Exercice_ApplicationObjets.csproj.CoreCompileInputs.cache
+C:\DATA\CS\Exercice_ApplicationObjets\Exercice_ApplicationObjets\obj\Debug\net6.0\Exercice_ApplicationObjets.dll
+C:\DATA\CS\Exercice_ApplicationObjets\Exercice_ApplicationObjets\obj\Debug\net6.0\refint\Exercice_ApplicationObjets.dll
+C:\DATA\CS\Exercice_ApplicationObjets\Exercice_ApplicationObjets\obj\Debug\net6.0\Exercice_ApplicationObjets.pdb
+C:\DATA\CS\Exercice_ApplicationObjets\Exercice_ApplicationObjets\obj\Debug\net6.0\Exercice_ApplicationObjets.genruntimeconfig.cache
+C:\DATA\CS\Exercice_ApplicationObjets\Exercice_ApplicationObjets\obj\Debug\net6.0\ref\Exercice_ApplicationObjets.dll
