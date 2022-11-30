@@ -1,6 +1,22 @@
 
 *.v2
 
-Exercice_Echiquier_GUI/.vs/Exercice_Echiquier_GUI/v17/.suo
+*.suo
 
 *.2
+
+*.vsidx
+
+*.lock
+
+Exercice1_Heritage/Exercice1_Heritage/bin/Debug/net6.0/
+
+Exercice1_Heritage/Exercice1_Heritage/obj/Debug/net6.0/
+
+Exercice2_Heritage/Exercice2_Heritage/obj/Debug/net6.0/
+
+*.cache
+
+Exercice2_Heritage/Exercice2_Heritage/obj/
+
+Exercice1_Heritage/Exercice1_Heritage/obj/
