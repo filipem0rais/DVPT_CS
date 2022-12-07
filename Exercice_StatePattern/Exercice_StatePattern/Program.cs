@@ -4,7 +4,22 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Ordinateur ordinateur = new Ordinateur();
+            
+            ordinateur.Allumer();
+            
+            ordinateur.Eteindre();
+
+            ordinateur.Eteindre();
+
+            ordinateur.Hiberner();
+
+            ordinateur.Allumer();
+
+            ordinateur.Allumer();
+
+            ordinateur.Hiberner();
+
         }
     }
 }

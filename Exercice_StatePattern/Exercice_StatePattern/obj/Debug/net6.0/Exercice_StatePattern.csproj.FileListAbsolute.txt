@@ -1,0 +1,15 @@
+C:\DATA\CS\Exercice_StatePattern\Exercice_StatePattern\obj\Debug\net6.0\Exercice_StatePattern.csproj.AssemblyReference.cache
+C:\DATA\CS\Exercice_StatePattern\Exercice_StatePattern\obj\Debug\net6.0\Exercice_StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\CS\Exercice_StatePattern\Exercice_StatePattern\obj\Debug\net6.0\Exercice_StatePattern.AssemblyInfoInputs.cache
+C:\DATA\CS\Exercice_StatePattern\Exercice_StatePattern\obj\Debug\net6.0\Exercice_StatePattern.AssemblyInfo.cs
+C:\DATA\CS\Exercice_StatePattern\Exercice_StatePattern\obj\Debug\net6.0\Exercice_StatePattern.csproj.CoreCompileInputs.cache
+C:\DATA\CS\Exercice_StatePattern\Exercice_StatePattern\bin\Debug\net6.0\Exercice_StatePattern.exe
+C:\DATA\CS\Exercice_StatePattern\Exercice_StatePattern\bin\Debug\net6.0\Exercice_StatePattern.deps.json
+C:\DATA\CS\Exercice_StatePattern\Exercice_StatePattern\bin\Debug\net6.0\Exercice_StatePattern.runtimeconfig.json
+C:\DATA\CS\Exercice_StatePattern\Exercice_StatePattern\bin\Debug\net6.0\Exercice_StatePattern.dll
+C:\DATA\CS\Exercice_StatePattern\Exercice_StatePattern\bin\Debug\net6.0\Exercice_StatePattern.pdb
+C:\DATA\CS\Exercice_StatePattern\Exercice_StatePattern\obj\Debug\net6.0\Exercice_StatePattern.dll
+C:\DATA\CS\Exercice_StatePattern\Exercice_StatePattern\obj\Debug\net6.0\refint\Exercice_StatePattern.dll
+C:\DATA\CS\Exercice_StatePattern\Exercice_StatePattern\obj\Debug\net6.0\Exercice_StatePattern.pdb
+C:\DATA\CS\Exercice_StatePattern\Exercice_StatePattern\obj\Debug\net6.0\Exercice_StatePattern.genruntimeconfig.cache
+C:\DATA\CS\Exercice_StatePattern\Exercice_StatePattern\obj\Debug\net6.0\ref\Exercice_StatePattern.dll
