@@ -1,0 +1,15 @@
+C:\DATA\CS\Exercice16\Exercice16\bin\Debug\net6.0\Exercice16.exe
+C:\DATA\CS\Exercice16\Exercice16\bin\Debug\net6.0\Exercice16.deps.json
+C:\DATA\CS\Exercice16\Exercice16\bin\Debug\net6.0\Exercice16.runtimeconfig.json
+C:\DATA\CS\Exercice16\Exercice16\bin\Debug\net6.0\Exercice16.dll
+C:\DATA\CS\Exercice16\Exercice16\bin\Debug\net6.0\Exercice16.pdb
+C:\DATA\CS\Exercice16\Exercice16\obj\Debug\net6.0\Exercice16.csproj.AssemblyReference.cache
+C:\DATA\CS\Exercice16\Exercice16\obj\Debug\net6.0\Exercice16.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\CS\Exercice16\Exercice16\obj\Debug\net6.0\Exercice16.AssemblyInfoInputs.cache
+C:\DATA\CS\Exercice16\Exercice16\obj\Debug\net6.0\Exercice16.AssemblyInfo.cs
+C:\DATA\CS\Exercice16\Exercice16\obj\Debug\net6.0\Exercice16.csproj.CoreCompileInputs.cache
+C:\DATA\CS\Exercice16\Exercice16\obj\Debug\net6.0\Exercice16.dll
+C:\DATA\CS\Exercice16\Exercice16\obj\Debug\net6.0\refint\Exercice16.dll
+C:\DATA\CS\Exercice16\Exercice16\obj\Debug\net6.0\Exercice16.pdb
+C:\DATA\CS\Exercice16\Exercice16\obj\Debug\net6.0\Exercice16.genruntimeconfig.cache
+C:\DATA\CS\Exercice16\Exercice16\obj\Debug\net6.0\ref\Exercice16.dll
